@@ -1,6 +1,5 @@
 # scientific-calculator
-A Scientific Calculator is useful for situations where we need to calculate some complex things like logs or trigonometry. In such cases, 
-the normal calculator won’t be useful for us. So therefore, we are here to develop a Scientific Calculator.
+A Scientific Calculator is useful for situations where we need to calculate some complex things like logs or trigonometry.
 
 
 Requirements to develop project
